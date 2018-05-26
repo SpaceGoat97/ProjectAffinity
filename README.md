@@ -8,6 +8,6 @@ The project comprises of 4 components:
 
 2. A DApp browser.
 
-3. Integrated decentralized data storage (IPFS).
+3. Integrated decentralized low latency data storage solution.
 
 4. Social Media integration.
